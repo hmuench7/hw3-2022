@@ -69,7 +69,7 @@ div.yellow {
     border-width: 0px 0px 2px 5px;
 }
 
-p.yellow {
+div.yellow p {
     color: #707070;
 }
 
